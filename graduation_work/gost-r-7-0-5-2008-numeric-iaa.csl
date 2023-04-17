@@ -321,7 +321,7 @@
             <text macro="type-number"/>
           </group>
           <group delimiter="; ">
-            <text macro="author" font-style="italic"/>
+            <text macro="author" font-style="regular"/>
             <text macro="publisher"/>
           </group>
         </group>  
@@ -332,7 +332,7 @@
             <group delimiter=". ">
               <group delimiter=": ">
                 <group delimiter=". ">
-                  <text macro="author" font-style="italic"/>
+                  <text macro="author" font-style="regular"/>
                   <text macro="title"/>
                 </group>
                 <text macro="type-number"/>
